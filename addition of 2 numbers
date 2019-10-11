@@ -1,0 +1,6 @@
+def add():
+  x=int( input("enter first number:"))
+  y=int( input("enter second number:"))
+  sum=x+y
+  return sum
+print(add)
